@@ -1,4 +1,4 @@
-# Open Cv Courses
+# Open Cv Course
 
 My Open Cv Course on Yolo, Cv & Computer Vision Libraries
 
@@ -24,3 +24,8 @@ My Open Cv Course on Yolo, Cv & Computer Vision Libraries
 - Streamlit
 - Numpy
 - Yolo
+
+  # Resources
+
+- Youtube Link = https://www.youtube.com/watch?v=WQeoO7MI0Bs&list=PLMoSUbG1Q_r9p7iYBg6z6tZP002DAJ41H&index=3
+- Full Playlist = https://www.youtube.com/playlist?list=PLMoSUbG1Q_r9p7iYBg6z6tZP002DAJ41H
